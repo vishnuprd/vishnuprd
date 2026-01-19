@@ -1,6 +1,4 @@
-🚀 Full-Stack Developer | React | Next.js | Node.js | PostgreSQL | AWS
-
-👋 Hi, I’m Vishnu — a results-driven Full Stack Developer with **2 years of experience** building scalable, high-performance web applications that solve real-world business problems. I’m passionate about creating clean user experiences, robust backend systems, and cloud-ready solutions that scale.
+Hi, I’m Vishnu — a Full Stack Developer who loves building scalable web apps with clean UI, solid backends, and cloud-ready solutions.
 
 I enjoy translating complex requirements into intuitive, maintainable, and production-ready applications. From startup MVPs to enterprise-grade platforms, my work consistently focuses on performance, scalability, and long-term value.
 
@@ -9,7 +7,7 @@ I enjoy translating complex requirements into intuitive, maintainable, and produ
   Tech Stack
    Frontend: React, Next.js, Tailwind CSS, shadcn/ui
    Backend:Node.js, TypeScript, tRPC, Prisma, Drizzle, FastAPI
-   Database:** PostgreSQL, MongoDB, Supabase
+   Database: PostgreSQL, MongoDB, Supabase
    Cloud & DevOps: AWS S3, Docker
 
 ---
@@ -21,9 +19,9 @@ I enjoy translating complex requirements into intuitive, maintainable, and produ
 ---
 
   Professional Experience Highlights**
-• Built an **AI-powered Visa Application Platform** that reduced operational overhead by **30%** through automation and conversational workflows
-• Developed **real-time Wall Visualizer** and **Asset Management systems**, improving operational efficiency by **25–40%**
-• Implemented scalable **document management solutions** using AWS S3, modern ORMs, and optimized deployment strategies
+• Built an AI-powered Visa Application Platform that reduced operational overhead by 30% through automation and conversational workflows
+• Developed real-time Wall Visualizer and Asset Management systems, improving operational efficiency by 25–40%
+• Implemented scalable document management solutions using AWS S3, modern ORMs, and optimized deployment strategies
 
 ---
   
@@ -35,7 +33,7 @@ I enjoy translating complex requirements into intuitive, maintainable, and produ
 ---
 
  Background
-I began my career as an **Electrical and Electronics Engineer**, which strengthened my analytical thinking and problem-solving skills. I now apply this foundation to full-stack development, building reliable systems that deliver measurable business impact.
+I began my career as an Electrical and Electronics Engineer, which strengthened my analytical thinking and problem-solving skills. I now apply this foundation to full-stack development, building reliable systems that deliver measurable business impact.
 
 ---
 
