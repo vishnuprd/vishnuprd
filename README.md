@@ -1,18 +1,21 @@
 <!-- =========================================================
-     PREMIUM GitHub Profile README → repo: vishnuprd/vishnuprd
+     MODERN GitHub Profile README → repo: vishnuprd/vishnuprd
      Paste as README.md. Edit the {EDIT:} spots before committing.
      All widgets auto-render on GitHub — no setup needed.
      ========================================================= -->
 
+<!-- ===================== HEADER WAVE ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishnu%20Prasad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" alt="header"/>
+
 <!-- ===================== TYPING BANNER ===================== -->
 <div align="center">
-  <a href="https://github.com/vishnuprd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vishnu+Prasad;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+AWS;I+build+web+apps+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS;I+build+web+apps+that+scale+%F0%9F%9A%80;Engineer+turned+Builder" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <!-- ===================== SOCIAL BADGES ===================== -->
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/vpd93">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,79 +26,51 @@
   <a href="https://react-patterns.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/vishnuprd">
-    <img src="https://komarev.com/ghpvc/?username=vishnuprd&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
-  </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=vishnuprd&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+</div>
 
 <br/>
 
 <!-- ===================== ABOUT ME ===================== -->
-## 🧑‍💻 About Me
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="developer" />
+
+### 👨‍💻 About Me
 
 ```typescript
 const vishnu = {
   role: "Full Stack Developer",
   experience: "3+ years",
   domains: ["PropTech", "Manufacturing", "Travel"],
-  focus: ["Scalable web apps", "Clean architecture", "Great UX"],
-  background: "Electrical & Electronics Engineer turned Builder",
-  currentlyLearning: ["T3 Stack", "Advanced state management"],
-  openTo: ["Full-time roles", "Freelance projects", "Collaborations"],
+  focus: ["Scalable web apps", "Clean architecture"],
+  background: "EEE Engineer → Builder",
+  learning: ["T3 Stack", "State management"],
+  openTo: ["Full-time", "Freelance", "Collaborations"],
 };
 ```
 
-- 🔭 I build production web apps — from **startup MVPs** to **enterprise platforms**
-- ⚙️ I care about **clean architecture**, reusable components, and systems that stay cheap to change
-- 🧠 My EEE background taught me to **understand the system, find the failure points, build something reliable**
-- ✍️ I write about frontend architecture & backend scaling — {EDIT: Medium link}
-- 💬 Ask me about **React, Next.js, Node.js, PostgreSQL, and AWS**
+- 🔭 &nbsp;Building production web apps — **MVPs to enterprise platforms**
+- ⚙️ &nbsp;Obsessed with **clean architecture** & code that stays cheap to change
+- 🧠 &nbsp;EEE background → I **find the failure points and build reliably**
+- ✍️ &nbsp;I write about frontend architecture & backend scaling — {EDIT: Medium link}
+- 💬 &nbsp;Ask me about **React, Next.js, Node.js, PostgreSQL, AWS**
+
+<br clear="right"/>
 
 <br/>
 
-<!-- ===================== TECH STACK (skillicons) ===================== -->
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+### 🧰 Tech Stack
 
 <div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" alt="Frontend skills" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,redis,python" alt="Backend skills" />
-
-**Database & Cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,aws,docker,vercel" alt="Database and cloud skills" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite" alt="Tools" />
-
-</div>
-
-<br/>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧾 **[AI Visa Platform]({EDIT:repo-url})** | Conversational visa workflow with document upload, real-time status & AI validation | `Next.js` `Drizzle` `PostgreSQL` `AWS S3` |
-| 📦 **[Order Management System]({EDIT:repo-url})** | Multi-tenant order tracking with SLA, audit trail & analytics | `Next.js` `Prisma` `Redis` `TanStack Query` |
-| 🗂️ **[Asset Management System]({EDIT:repo-url})** | Internal asset tracking with logs, Excel export & admin panel | `Next.js` `Prisma` `NextAuth` `PostgreSQL` |
-| 🎨 **[Wallpaper Visualizer]({EDIT:repo-url})** | Interactive product dashboard with gallery & PDF export | `Next.js` `Tailwind` `Framer Motion` |
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,fastapi&theme=dark" alt="stack row 1" /><br/>
+  <img src="https://skillicons.dev/icons?i=prisma,redis,postgres,mongodb,supabase,aws,docker,vercel&theme=dark" alt="stack row 2" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,python,html&theme=dark" alt="stack row 3" />
 </div>
 
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnuprd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
@@ -109,19 +84,10 @@ const vishnu = {
 <br/>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
-## 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuprd&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
-</div>
-
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnuprd&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuprd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </div>
 
 <br/>
@@ -131,15 +97,16 @@ const vishnu = {
 
 ### 💼 Open to Work
 
-I'm available for **full-time full-stack roles** and **freelance projects**.<br/>
-If you're building something that needs to scale, let's talk.
+Available for **full-time full-stack roles** and **freelance projects**.<br/>
+If you're building something that needs to scale — let's talk.
 
 <a href="https://www.linkedin.com/in/vpd93">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
 </a>
 
-<br/><br/>
-
-<i>⭐️ From <a href="https://github.com/vishnuprd">vishnuprd</a> — let's build something impactful 🚀</i>
-
 </div>
+
+<br/>
+
+<!-- ===================== FOOTER WAVE ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=let's%20build%20something%20impactful%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer"/>
