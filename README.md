@@ -1,7 +1,8 @@
 <!-- =========================================================
-     MODERN GitHub Profile README → repo: vishnuprd/vishnuprd
-     Paste as README.md. Edit the {EDIT:} spots before committing.
-     All widgets auto-render on GitHub — no setup needed.
+     ANIMATED GitHub Profile README → repo: vishnuprd/vishnuprd
+     Paste as README.md. Edit the {EDIT:} spots.
+     ⚠️ The SNAKE and 3D graph need a GitHub Action to appear —
+        see snake.yml + setup steps provided alongside this file.
      ========================================================= -->
 
 <!-- ===================== HEADER WAVE ===================== -->
@@ -11,8 +12,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS;I+build+web+apps+that+scale+%F0%9F%9A%80;Engineer+turned+Builder" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <div align="center">
@@ -29,10 +28,11 @@
   <img src="https://komarev.com/ghpvc/?username=vishnuprd&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
 </div>
 
-<br/>
+<!-- animated divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
 <!-- ===================== ABOUT ME ===================== -->
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="developer" />
+<img align="right" width="36%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="developer" />
 
 ### 👨‍💻 About Me
 
@@ -56,7 +56,8 @@ const vishnu = {
 
 <br clear="right"/>
 
-<br/>
+<!-- animated divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
 <!-- ===================== TECH STACK ===================== -->
 ### 🧰 Tech Stack
@@ -67,7 +68,8 @@ const vishnu = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,python,html&theme=dark" alt="stack row 3" />
 </div>
 
-<br/>
+<!-- animated divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ### 📊 GitHub Analytics
@@ -81,7 +83,23 @@ const vishnu = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuprd&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 </div>
 
-<br/>
+<!-- ===================== SNAKE ANIMATION ===================== -->
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuprd/vishnuprd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnuprd/vishnuprd/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/vishnuprd/vishnuprd/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- ===================== 3D CONTRIBUTION ===================== -->
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vishnuprd/vishnuprd/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</div>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 ### 📈 Contribution Activity
@@ -90,7 +108,8 @@ const vishnu = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuprd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </div>
 
-<br/>
+<!-- animated divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="divider"/>
 
 <!-- ===================== OPEN TO WORK ===================== -->
 <div align="center">
